@@ -1,16 +1,14 @@
 # video_jank
 
-A new Flutter project.
+An example project to demonstrate video stutter using the video_player plugin. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Build and run the application on an iOS device, not a simulator. 
+2. A video should start playing.
+3. Swipe to the next page.
+4. The video will stall or stutter. 
+5. Click the screen, the video should smooth back out. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Either the application is using video_player incorrectly or there's an issue with video_player. 
+The goal of this example is to help figure out the cause. See the [Screen Recording](https://github.com/sowens-csd/video_jank/VideoJankScreenRecording.mov)
