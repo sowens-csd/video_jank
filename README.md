@@ -11,4 +11,4 @@ An example project to demonstrate video stutter using the video_player plugin.
 5. Click the screen, the video should smooth back out. 
 
 Either the application is using video_player incorrectly or there's an issue with video_player. 
-The goal of this example is to help figure out the cause. See the [Screen Recording](https://github.com/sowens-csd/video_jank/VideoJankScreenRecording.mov)
+The goal of this example is to help figure out the cause. See the [Screen Recording](https://github.com/sowens-csd/video_jank/raw/master/VideoJankScreenRecording.mov)
